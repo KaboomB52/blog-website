@@ -53,7 +53,7 @@ const StyledWrapper = styled.div`
     cursor: pointer;
 
     :hover {
-      color: ${({ theme }) => theme.colors.gray12};
+      color: ${({ theme }) => theme.colors.gray10};
       background-color: ${({ theme }) => theme.colors.gray5};
     }
     .icon {
