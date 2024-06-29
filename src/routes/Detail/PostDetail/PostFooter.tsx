@@ -28,7 +28,7 @@ const StyledWrapper = styled.div`
     cursor: pointer;
 
     :hover {
-      color: ${({ theme }) => theme.colors.gray10};
+      color: ${({ theme }) => theme.colors.gray12};
     }
   }
 `
